@@ -10,6 +10,7 @@ Real time interactive streaming digital human， realize audio video synchronous
 4. 支持全身视频拼接
 5. 支持rtmp和webrtc
 6. 支持视频编排：不说话时播放自定义视频
+7. 改动测试
 
 ## 1. Installation
 
